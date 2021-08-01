@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Overworld","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"Town","order":2,"parentId":0,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":false,"name":"Home","order":3,"parentId":2,"scrollX":819,"scrollY":461},
+{"id":4,"expanded":false,"name":"Forest","order":4,"parentId":0,"scrollX":2336,"scrollY":513},
+{"id":5,"expanded":true,"name":"The Church Outside","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"The Church Outside","order":6,"parentId":5,"scrollX":819,"scrollY":461},
+{"id":7,"expanded":false,"name":"The Ruins","order":7,"parentId":0,"scrollX":819,"scrollY":453}
+]
